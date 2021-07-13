@@ -159,4 +159,11 @@ Sixth lecture explains Resolution and its various interpretations and it also sh
 Seventh lecture shows the different kinds of Datasets which contain images. There are mainly three types of sets: Captioned Images, Raw Images and Archival Images. Captioned images are generally seen in press releases wherein the image which is processed for the general public and having a caption is contained. The Raw images are the ones which are sent by the spacecraft or slightly processed versions of those stored and published as JPEG, PNG files meant for enthusiasts. Archival Data contains the original images with appropriate metadata and a lot of other relevant information from various space missions.
 
 
+<b> Parting Words: </b>
+
+The entire duration of the SoC project has been a great learning experience for me. After this project, I can't help but wonder at the breakthroughs in the field of Astronomy and Science in general made possible by the advancements of technology. The enormous potential changes in technology can have is more than validated by the learnings of the project. I hope to be able to capitalize and develop on the things I learnt and explore more on my own accord.
+
+I will take this opportunity to thank my mentor Jai Israni for providing me with this opportunity to learn and guiding me throughout the duration of the project.
+
+It is me Mayank Kumar Panda signing off.
 
