@@ -1,5 +1,36 @@
 # Soc-Astronomy-Analysis
-<b>SOC: ASTRONOMICAL DATA ANALYSIS AND MODELLING</b>
+<b>SOC: ASTRONOMICAL DATA MODELLING AND INTERPRETATION</b>
+
+<b> INTRODUCTION: </b>
+
+The Summer of Code project "Astronomical Data Modelling and Interpretation" provides insight into the application of Data Analysis and Image Processing in the understanding of Astronomical phenomenon and the ideas of dealing with large datasets and the special methods employed in handling them along with the basic principles of Image Processing and the aspects of Image Processing used in the field of Astronomical study formed the crux of the project. 
+
+The Resources used were:
+<ul>
+  <li>
+    https://www.tutorialspoint.com/python3/index.htm
+  </li>
+  <li>
+    https://github.com/krittikaiitb/tutorials
+  </li>
+  <li>
+    https://datatofish.com/plot-histogram-python/
+  </li>
+  <li>
+    https://www.coursera.org/learn/data-driven-astronomy
+  </li>
+  <li>
+    https://courses.planetary.org/p/imageclass
+  </li>
+  <li>
+    https://astrobites.org/
+  </li>
+ </ul>
+  
+  
+  
+
+
 
 <i>WEEKWISE PROGRESS:</i>
 
@@ -78,6 +109,19 @@ Week 4 of the course explores various ways of storing and retrieving Data in ter
 When we use Databases, we do not implement or care about the storage of data or the type of Data Structure used or how the algorithms behind implementing the queries. This is a very common aspect of many software applications known as Abstraction wherein inner functional details are hidden from the user.
 
 One common Astronomical Analysis is of the Star Clusters using Hertzsprung-Russell diagrams which involve plotting Luminosity vs Temperature of stars and classifying them. 
+
+<i>Course Week 5:</i>
+
+Week 5 delves into the aspect of measurement of stellar distances and how even parallax doesn't work here so we use red shift of a star reaching the telescope to find its distance. We use Supervised learning to calculate redshift using redshift-distance datasets.
+
+<i>Course Week 6:</i>
+
+The content of Week 6 covers the classification of galaxies. Galaxies can be classified using various parameters depending on the underlying aim of the classification and the factors normally used are shape, colour, merging factor etc. The act of classification of galaxies is automated using a random forest classifier from the scikit-learn library of Python based on certain features of the galaxy found out using various measurement methods.
+
+Using K-folds validation, we obtain the accuracy of the classifier.  
+
+Further using a confusion matrix, we check the overall accuracy, precision and recall of the model.
+
 
 <b>Week 6: Image Processing</b>
 
